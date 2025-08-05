@@ -5,7 +5,6 @@
 
 * Contenidos de la [Ayudantia 10](https://youtu.be/3dn__gzqBcg)
 * Contenidos de la [Ayudantia 11](https://youtu.be/PjwAUjVRAWg)
-* Contenidos Lectura 11
 
 Las siguientes hojas de datos (solo estudiar los conceptos, y funcionamiento,  no tablas de registro ni detalles de bits). 
 
