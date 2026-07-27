@@ -18,9 +18,9 @@ Las siguientes hojas de datos (solo estudiar los conceptos, y funcionamiento,  n
 
 | Documento | Descripción |
 | :--- | :--- |
-| [Hoja de Datos Sensor de Luz](https://github.com/IEE2463-SEP/REF-Documentacion/blob/main/Datasheet_Booster_Light_Sensor.pdf) | Sensor de luz de la tarjeta Booster. |
-| [Hoja de Datos Sensor de Temperatura](https://github.com/IEE2463-SEP/REF-Documentacion/blob/main/Datasheet_Booster_Temperature_Sensor.pdf) | Sensor de temperatura de la tarjeta Booster. |
-| [Hoja de Datos ADC](https://github.com/IEE2463-SEP/REF-Documentacion/blob/main/Datasheet_ADC_Adapter_Board.pdf) | ADC de la tarjeta de adaptación. |
+| [Hoja de Datos Sensor de Luz](https://github.com/IEE2463-SEP/REF-Documentacion/blob/HEAD/Datasheet_Booster_Light_Sensor.pdf) | Sensor de luz de la tarjeta Booster. |
+| [Hoja de Datos Sensor de Temperatura](https://github.com/IEE2463-SEP/REF-Documentacion/blob/HEAD/Datasheet_Booster_Temperature_Sensor.pdf) | Sensor de temperatura de la tarjeta Booster. |
+| [Hoja de Datos ADC](https://github.com/IEE2463-SEP/REF-Documentacion/blob/HEAD/Datasheet_ADC_Adapter_Board.pdf) | ADC de la tarjeta de adaptación. |
 
 ---
 
