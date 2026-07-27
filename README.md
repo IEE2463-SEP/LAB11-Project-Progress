@@ -26,7 +26,7 @@ Las siguientes hojas de datos (solo estudiar los conceptos, y funcionamiento,  n
 
 ## 🧪 Actividad práctica
 
-[Actividad Práctica-Avance Proyecto2]() desarrollada en el del Laboratorio
+Actividad Práctica-Avance Proyecto2 ⏳ desarrollada en el del Laboratorio (por definir)
 
 ---
 
